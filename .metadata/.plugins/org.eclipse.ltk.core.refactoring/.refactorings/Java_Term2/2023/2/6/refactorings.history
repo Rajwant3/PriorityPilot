@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;week2.wee5&apos; to &apos;Week5&apos;&#x0D;&#x0A;- Original project: &apos;Java_Term2&apos;&#x0D;&#x0A;- Original element: &apos;week2.wee5&apos;&#x0D;&#x0A;- Renamed element: &apos;week2.Week5&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;wee5&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;week2{wee5.java[wee5" matchStrategy="1" name="Week5" qualified="false" references="true" similarDeclarations="false" stamp="1676064262830" textual="false" version="1.0"/>
+</session>

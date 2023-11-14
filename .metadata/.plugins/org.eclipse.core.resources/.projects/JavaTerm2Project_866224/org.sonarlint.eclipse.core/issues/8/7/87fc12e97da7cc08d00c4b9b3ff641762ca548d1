@@ -1,0 +1,15 @@
+
+F
+java:S1220""Move this file to a named package.HÛRRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©ûð½üÿÿÿÿ8öÓø¡©1H˜SRMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(ÑÉ¦ú8ßÇà¢©1H»TRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¥³ÈÁ8­¡î¡©1H†SRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(‡ö¥èýÿÿÿÿ8‰£á¢©1H½TRMAJORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‰£á¢©1H¾TRMINORZ
+CODE_SMELL

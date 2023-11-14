@@ -1,0 +1,12 @@
+
+k	java:S106;"9Replace this use of System.out or System.err by a logger.(âÑªŸ8›ôıõ0HüWRMAJORZ
+CODE_SMELL
+f
+java:S11210".Extract the assignment out of this expression.(¨ã›ÿÿÿÿÿ8Â¤’õ0HıWRMAJORZ
+CODE_SMELL
+k	java:S106@"9Replace this use of System.out or System.err by a logger.(ÆÀûı8Ùï˜õ0HşWRMAJORZ
+CODE_SMELL
+k	java:S1068"9Replace this use of System.out or System.err by a logger.(ÆÀûı8Â¤’õ0HÿWRMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(ÌÙ”à8Ùï˜õ0H€XRMAJORZ
+CODE_SMELL

@@ -1,0 +1,33 @@
+
+k	java:S106("9Replace this use of System.out or System.err by a logger.(Ù¯Í•8«òŠ…ğ0HÑ-RMAJORZ
+CODE_SMELL
+	java:S1001"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿òëk8òø¬…ğ0H½-RMINORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Æ¥šüÿÿÿÿ8Ô»­…ğ0HÇ-RMINORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(Ø°Éëûÿÿÿÿ8«òŠ…ğ0HÓ-RMAJORZ
+CODE_SMELL
+g
+java:S1144"/Remove this unused private "question_1" method.(¨Æ¥šüÿÿÿÿ8¤Â…ğ0Hì.RMAJORZ
+CODE_SMELL
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(Óº¶çıÿÿÿÿ8ù§¿…ğ0Hé.RMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö•¦Äøÿÿÿÿ8ì³Œ…ğ0HÌ-RMINORZ
+CODE_SMELL
+^
+java:S1659"&Declare "temp_224" on a separate line.(ö•¦Äøÿÿÿÿ8ì³Œ…ğ0HÖ-RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©ıåøÿÿÿÿ8«òŠ…ğ0HÏ-RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(´®Òøÿÿÿÿ8«òŠ…ğ0HĞ-RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÖ†ÿÿÿÿÿHŒ-RMINORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(³˜¶â8ò¿‘…ğ0HÔ-RMAJORZ
+CODE_SMELL
+p	java:S106A"9Replace this use of System.out or System.err by a logger.(ûõŞ´şÿÿÿÿ8ƒÏâ…ğ0H£/RMAJORZ
+CODE_SMELL
+p	java:S106L"9Replace this use of System.out or System.err by a logger.(¢ÿÖ±úÿÿÿÿ8éë…ğ0HÉ/RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(˜Ğ±ïûÿÿÿÿ8«òŠ…ğ0HÎ-RMAJORZ
+CODE_SMELL

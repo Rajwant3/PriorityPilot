@@ -1,0 +1,40 @@
+
+p	java:S106X"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ8¥ã•‹æ0H‡3RMAJORZ
+CODE_SMELL
+k	java:S106U"9Replace this use of System.out or System.err by a logger.(Íºíã8ËÒ§ˆæ0Hˆ3RMAJORZ
+CODE_SMELL
+p	java:S106p"9Replace this use of System.out or System.err by a logger.(¥ýÇÂýÿÿÿÿ8—û‡Šæ0H‰3RMAJORZ
+CODE_SMELL
+k	java:S106M"9Replace this use of System.out or System.err by a logger.(×•œ²8º£ŠÈá0HŠ3RMAJORZ
+CODE_SMELL
+p	java:S106V"9Replace this use of System.out or System.err by a logger.(¬Û˜ßúÿÿÿÿ8Ð»ØŠæ0H‹3RMAJORZ
+CODE_SMELL
+n	java:S125""<This block of commented-out lines of code should be removed.(Êí¸ë8ôÌ«Šæ0HŒ3RMAJORZ
+CODE_SMELL
+k	java:S106Y"9Replace this use of System.out or System.err by a logger.(Íºíã8™¶­Šæ0H 3RMAJORZ
+CODE_SMELL
+s	java:S125:"<This block of commented-out lines of code should be removed.(»‡ïÛüÿÿÿÿ8‡µã‰æ0H¡3RMAJORZ
+CODE_SMELL
+p	java:S106K"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿ8êä‰æ0H£3RMAJORZ
+CODE_SMELL
+k	java:S106a"9Replace this use of System.out or System.err by a logger.(±„¶8ÝÓœÈá0H¤3RMAJORZ
+CODE_SMELL
+p	java:S106W"9Replace this use of System.out or System.err by a logger.(íäªýÿÿÿÿÿ8—û‡Šæ0H¥3RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ø©Ïýÿÿÿÿ8ÝÓœÈá0H¦3RMAJORZ
+CODE_SMELL
+q	java:S106Ž"9Replace this use of System.out or System.err by a logger.(Éòæøÿÿÿÿ8žï©ˆæ0H§3RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÐÖž†ÿÿÿÿÿH¨3RMINORZ
+CODE_SMELL
+p	java:S106g"9Replace this use of System.out or System.err by a logger.(ÿñí‚üÿÿÿÿ8ÝÓœÈá0H©3RMAJORZ
+CODE_SMELL
+k	java:S106C"9Replace this use of System.out or System.err by a logger.(Ý¬ÒÓ8éšÇŠæ0Hª3RMAJORZ
+CODE_SMELL
+d
+java:S1144G",Remove this unused private "pattern" method.(àðú£úÿÿÿÿ8‡µã‰æ0H«3RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(‚êñýúÿÿÿÿ8ï¥‘Èá0H­3RMAJORZ
+CODE_SMELL
+p	java:S106P"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8—û‡Šæ0H¹3RMAJORZ
+CODE_SMELL

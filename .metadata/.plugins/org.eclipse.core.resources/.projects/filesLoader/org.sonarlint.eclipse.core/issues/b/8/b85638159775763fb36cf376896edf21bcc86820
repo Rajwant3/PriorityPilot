@@ -1,0 +1,19 @@
+
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÛŸ–úÿÿÿÿH½WRMINORZ
+CODE_SMELL
+M
+java:S1643,"Use a StringBuilder instead.(³ıƒÑıÿÿÿÿH¾WRMINORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(ı´†¶ıÿÿÿÿH¿WRMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(××ŸõHÀWRMAJORZ
+CODE_SMELL
+l	java:S125 "<This block of commented-out lines of code should be removed.(Ñ±Ñ™ÿÿÿÿÿHÂWRMAJORZ
+CODE_SMELL
+g	java:S1251"<This block of commented-out lines of code should be removed.(¾¾ŞƒHÃWRMAJORZ
+CODE_SMELL
+g	java:S1254"<This block of commented-out lines of code should be removed.(†€éˆHÅWRMAJORZ
+CODE_SMELL
+b
+java:S1135F"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHÆWRINFOZ
+CODE_SMELL

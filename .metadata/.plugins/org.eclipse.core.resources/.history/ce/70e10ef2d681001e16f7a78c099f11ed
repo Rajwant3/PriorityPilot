@@ -1,0 +1,10 @@
+package com.priority.pilot.models;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="todo_item")
+public class TodoItem {
+
+}

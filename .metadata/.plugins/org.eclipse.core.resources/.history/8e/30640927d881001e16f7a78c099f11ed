@@ -1,0 +1,4 @@
+package com.priority.pilot.repository;
+
+public interface TodoItemRepository extends CrudRepository<TodoItem, Long> {  
+}

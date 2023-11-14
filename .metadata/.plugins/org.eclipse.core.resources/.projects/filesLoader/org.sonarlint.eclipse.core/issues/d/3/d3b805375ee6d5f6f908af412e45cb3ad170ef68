@@ -1,0 +1,5 @@
+
+a	java:S899"=Do something with the "boolean" value returned by "canWrite".(ºèĞÁHäWRMINORZBUG
+i	java:S899"@Do something with the "boolean" value returned by "setReadable".(ÔÇ§°ûÿÿÿÿHåWRMINORZBUG
+f	java:S899"BDo something with the "boolean" value returned by "setExecutable".(¶ªäºHæWRMINORZBUG
+d	java:S899"@Do something with the "boolean" value returned by "setWritable".(¸ÁòâHçWRMINORZBUG

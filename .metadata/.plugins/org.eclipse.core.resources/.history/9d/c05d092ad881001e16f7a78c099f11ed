@@ -1,0 +1,8 @@
+package com.priority.pilot.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.priority.pilot.models.TodoItem;
+
+public interface TodoItemRepository extends CrudRepository<TodoItem, Long> {
+}

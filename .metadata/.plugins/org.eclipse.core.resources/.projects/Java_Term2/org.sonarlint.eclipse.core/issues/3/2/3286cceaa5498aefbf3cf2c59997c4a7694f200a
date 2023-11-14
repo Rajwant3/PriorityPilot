@@ -1,0 +1,43 @@
+
+p	java:S106L"9Replace this use of System.out or System.err by a logger.(Ôƒ£ïıÿÿÿÿ8Ü…ì‡ğ0Hµ4RMAJORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“ÉúÔH¶4RMINORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(Ì……›8Ä•Í‡ğ0H·4RMAJORZ
+CODE_SMELL
+k	java:S106Z"9Replace this use of System.out or System.err by a logger.(¡„®ç8¯íû‡ğ0H¸4RMAJORZ
+CODE_SMELL
+g
+java:S1144"/Remove this unused private "question_1" method.(¨Æ¥šüÿÿÿÿ8²Î‡ğ0H¹4RMAJORZ
+CODE_SMELL
+a
+java:S1144%"/Remove this unused private "question_2" method.(¿òëk8Ï°ä‡ğ0H»4RMAJORZ
+CODE_SMELL
+p	java:S106\"9Replace this use of System.out or System.err by a logger.(¯«üùÿÿÿÿ8œı‡ğ0H½4RMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÖ†ÿÿÿÿÿH¾4RMINORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Æ¥šüÿÿÿÿ8‘Şª†ğ0H¿4RMINORZ
+CODE_SMELL
+k	java:S106K"9Replace this use of System.out or System.err by a logger.(™ôç¬8·¬ã‡ğ0HÀ4RMAJORZ
+CODE_SMELL
+€	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§×‘•8‹¥ô‡ğ0HÁ4RMINORZ
+CODE_SMELL
+	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿òëk8Ü¼Â‡ğ0HÂ4RMINORZ
+CODE_SMELL
+	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÛíT8¸ÁØ‡ğ0HÃ4RMINORZ
+CODE_SMELL
+‘
+java:S3012E"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(óœ¿‹úÿÿÿÿ8ÛÇà‡ğ0HÄ4RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ş©×•8½ˆÉ†ğ0HÅ4RMAJORZ
+CODE_SMELL
+k	java:S1067"9Replace this use of System.out or System.err by a logger.(Ø®’­8Ä•Í‡ğ0HÆ4RMAJORZ
+CODE_SMELL
+a
+java:S1144="/Remove this unused private "question_3" method.(ÇÛíT8ƒïı‡ğ0HÇ4RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ß¢Œf8éŸÌ†ğ0HÉ4RMAJORZ
+CODE_SMELL
+j	java:S106 "9Replace this use of System.out or System.err by a logger.(ÍêúN8û’®†ğ0HÊ4RMAJORZ
+CODE_SMELL

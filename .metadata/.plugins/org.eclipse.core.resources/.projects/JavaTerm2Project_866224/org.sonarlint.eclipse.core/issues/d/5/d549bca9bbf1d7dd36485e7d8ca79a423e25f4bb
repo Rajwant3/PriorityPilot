@@ -1,0 +1,142 @@
+
+Ÿ
+java:S1192Ì"cDefine a constant instead of duplicating this literal "Boot ID must be Integer Type Only!" 4 times.(üû«Ëüÿÿÿÿ8ë«Àä÷0HÀTRCRITICALZ
+CODE_SMELL
+l	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(é¶Ü¡8àû”á÷0HÅTRMAJORZ
+CODE_SMELL
+k	java:S1069"9Replace this use of System.out or System.err by a logger.(¢¾Á8àû”á÷0HÆTRMAJORZ
+CODE_SMELL
+q	java:S106¯"9Replace this use of System.out or System.err by a logger.(˜Â‰àşÿÿÿÿ8àû”á÷0HÇTRMAJORZ
+CODE_SMELL
+l	java:S106Î"9Replace this use of System.out or System.err by a logger.(ÑèáÒ8Á²çã÷0HÈTRMAJORZ
+CODE_SMELL
+l	java:S106ı"9Replace this use of System.out or System.err by a logger.(«Üñ€8àû”á÷0HÉTRMAJORZ
+CODE_SMELL
+k	java:S106Ş"9Replace this use of System.out or System.err by a logger.(²ĞêR8àû”á÷0HÊTRMAJORZ
+CODE_SMELL
+k	java:S106+"9Replace this use of System.out or System.err by a logger.(íçÃ8àû”á÷0HËTRMAJORZ
+CODE_SMELL
+l	java:S106á"9Replace this use of System.out or System.err by a logger.(ïÒÁÕ8“¢êâ÷0HÌTRMAJORZ
+CODE_SMELL
+q	java:S106’"9Replace this use of System.out or System.err by a logger.(üû«Ëüÿÿÿÿ8«©¾á÷0HÍTRMAJORZ
+CODE_SMELL
+k	java:S106N"9Replace this use of System.out or System.err by a logger.(š”¹Ï8Ôœ£ã÷0HÎTRMAJORZ
+CODE_SMELL
+p	java:S106I"9Replace this use of System.out or System.err by a logger.(íÙË™ıÿÿÿÿ8—ûŞã÷0HÏTRMAJORZ
+CODE_SMELL
+k	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(²æ‚58àû”á÷0HĞTRMAJORZ
+CODE_SMELL
+l	java:S106”"9Replace this use of System.out or System.err by a logger.(ÑèáÒ8ÌÄá÷0HÑTRMAJORZ
+CODE_SMELL
+k	java:S106¤"9Replace this use of System.out or System.err by a logger.(Ôøœ8àû”á÷0HÒTRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ë°“çşÿÿÿÿ8àû”á÷0HÓTRMAJORZ
+CODE_SMELL
+q	java:S106¦"9Replace this use of System.out or System.err by a logger.(‘ÃñŸùÿÿÿÿ8ŸõŠä÷0HÔTRMAJORZ
+CODE_SMELL
+l	java:S106Å"9Replace this use of System.out or System.err by a logger.(‡ºÔ±8¡œñâ÷0HÕTRMAJORZ
+CODE_SMELL
+l	java:S106Ö"9Replace this use of System.out or System.err by a logger.(ç˜‚ß8àû”á÷0HÖTRMAJORZ
+CODE_SMELL
+q	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ÀœÃëúÿÿÿÿ8àû”á÷0H×TRMAJORZ
+CODE_SMELL
+l	java:S106ê"9Replace this use of System.out or System.err by a logger.(ÑèáÒ8ë«Àä÷0HØTRMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(“ÍŒÖ8àû”á÷0HÙTRMAJORZ
+CODE_SMELL
+p	java:S106E"9Replace this use of System.out or System.err by a logger.(ºÑˆÒúÿÿÿÿ8àû”á÷0HÚTRMAJORZ
+CODE_SMELL
+l	java:S106›"9Replace this use of System.out or System.err by a logger.(ç˜‚ß8àû”á÷0HÛTRMAJORZ
+CODE_SMELL
+q	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ì¨Ñùÿÿÿÿ8àû”á÷0HÜTRMAJORZ
+CODE_SMELL
+l	java:S106‡"9Replace this use of System.out or System.err by a logger.(ÆÀûı8àû”á÷0HİTRMAJORZ
+CODE_SMELL
+q	java:S106è"9Replace this use of System.out or System.err by a logger.(üû«Ëüÿÿÿÿ8àû”á÷0HŞTRMAJORZ
+CODE_SMELL
+l	java:S106£"9Replace this use of System.out or System.err by a logger.(Öôêş8àû”á÷0HßTRMAJORZ
+CODE_SMELL
+l	java:S106€"9Replace this use of System.out or System.err by a logger.(•ÂÖ„8ŸõŠä÷0HàTRMAJORZ
+CODE_SMELL
+q	java:S106¡"9Replace this use of System.out or System.err by a logger.(•™Ğûÿÿÿÿ8àû”á÷0HáTRMAJORZ
+CODE_SMELL
+l	java:S106š"9Replace this use of System.out or System.err by a logger.(Îú¾Î8àû”á÷0HâTRMAJORZ
+CODE_SMELL
+l	java:S106Á"9Replace this use of System.out or System.err by a logger.(á”ƒ©8àû”á÷0HãTRMAJORZ
+CODE_SMELL
+l	java:S106¼"9Replace this use of System.out or System.err by a logger.(ÑèáÒ8ë«Àä÷0HäTRMAJORZ
+CODE_SMELL
+€
+java:S1192Ö"IDefine a constant instead of duplicating this literal "Book id:" 3 times.(ç˜‚ß8ÌÖÆä÷0HåTRCRITICALZ
+CODE_SMELL
+l	java:S106Û"9Replace this use of System.out or System.err by a logger.(É³»Ü8šÔ¸ä÷0HéTRMAJORZ
+CODE_SMELL
+l	java:S106©"9Replace this use of System.out or System.err by a logger.(«º’Á8àû”á÷0HêTRMAJORZ
+CODE_SMELL
+p	java:S106J"9Replace this use of System.out or System.err by a logger.(ñ¯¡Œşÿÿÿÿ8àû”á÷0HëTRMAJORZ
+CODE_SMELL
+q	java:S106—"9Replace this use of System.out or System.err by a logger.(‡¾”Ğıÿÿÿÿ8ìÓÙã÷0HìTRMAJORZ
+CODE_SMELL
+p	java:S106K"9Replace this use of System.out or System.err by a logger.(ĞĞò¦üÿÿÿÿ8àû”á÷0HíTRMAJORZ
+CODE_SMELL
+l	java:S106€"9Replace this use of System.out or System.err by a logger.(©áÍ8àû”á÷0HîTRMAJORZ
+CODE_SMELL
+l	java:S106ä"9Replace this use of System.out or System.err by a logger.(€Ö„¸8¤ÚÏâ÷0HïTRMAJORZ
+CODE_SMELL
+q	java:S106Ş"9Replace this use of System.out or System.err by a logger.(·”áùÿÿÿÿ8šÔ¸ä÷0HğTRMAJORZ
+CODE_SMELL
+k	java:S106L"9Replace this use of System.out or System.err by a logger.(¨Ô™8ÌÖÆä÷0HñTRMAJORZ
+CODE_SMELL
+l	java:S106û"9Replace this use of System.out or System.err by a logger.(“×¯¯8ŒÖä÷0HòTRMAJORZ
+CODE_SMELL
+l	java:S106ó"9Replace this use of System.out or System.err by a logger.(ç˜‚ß8àû”á÷0HóTRMAJORZ
+CODE_SMELL
+l	java:S106ş"9Replace this use of System.out or System.err by a logger.(´İ«»8àû”á÷0HôTRMAJORZ
+CODE_SMELL
+p	java:S106="9Replace this use of System.out or System.err by a logger.(ëé¡‡úÿÿÿÿ8ÌÖÆä÷0HõTRMAJORZ
+CODE_SMELL
+l	java:S106‰"9Replace this use of System.out or System.err by a logger.(İìä¶8àû”á÷0HöTRMAJORZ
+CODE_SMELL
+l	java:S106Ò"9Replace this use of System.out or System.err by a logger.(ŠÂãÙ8àû”á÷0H÷TRMAJORZ
+CODE_SMELL
+p	java:S106M"9Replace this use of System.out or System.err by a logger.(­Ÿğïùÿÿÿÿ8ö‡”ä÷0HøTRMAJORZ
+CODE_SMELL
+q	java:S106ò"9Replace this use of System.out or System.err by a logger.(ó²àùÿÿÿÿ8“¢êâ÷0HùTRMAJORZ
+CODE_SMELL
+k	java:S106U"9Replace this use of System.out or System.err by a logger.(èç§è8àû”á÷0HúTRMAJORZ
+CODE_SMELL
+t
+java:S6437–"6Revoke and change this password, as it is compromised.(ÜÓãœúÿÿÿÿ8àû”á÷0HûTRBLOCKERZVULNERABILITY
+q	java:S106Ì"9Replace this use of System.out or System.err by a logger.(üû«Ëüÿÿÿÿ8àû”á÷0HüTRMAJORZ
+CODE_SMELL
+l	java:S106è"9Replace this use of System.out or System.err by a logger.(¥‹à¼8ë«Àä÷0HıTRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(ï»¨øÿÿÿÿ8åŞÍâ÷0HşTRMAJORZ
+CODE_SMELL
+p	java:S106W"9Replace this use of System.out or System.err by a logger.(ºïÙ¢ÿÿÿÿÿ8ùûùâ÷0HÿTRMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(”¥ªéøÿÿÿÿ8àû”á÷0H€URMAJORZ
+CODE_SMELL
+ˆ
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘8šÔ¸ä÷0HURCRITICALZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HŒURMINORZ
+CODE_SMELL
+l	java:S106¬"9Replace this use of System.out or System.err by a logger.(¤˜åü8¦„Üã÷0HURMAJORZ
+CODE_SMELL
+q	java:S106‚"9Replace this use of System.out or System.err by a logger.(Å÷£Ìûÿÿÿÿ8ŸõŠä÷0HURMAJORZ
+CODE_SMELL
+Œ
+java:S1192Î"UDefine a constant instead of duplicating this literal "Enter Book ID again!" 4 times.(ÑèáÒ8ë«Àä÷0HURCRITICALZ
+CODE_SMELL
+q	java:S106»"9Replace this use of System.out or System.err by a logger.(Õ‡ä¸úÿÿÿÿ8ÌÖÆä÷0H”URMAJORZ
+CODE_SMELL
+l	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ğµ¸§8àû”á÷0H•URMAJORZ
+CODE_SMELL
+q	java:S106¢"9Replace this use of System.out or System.err by a logger.(è¬…ºûÿÿÿÿ8àû”á÷0H–URMAJORZ
+CODE_SMELL
+q	java:S106º"9Replace this use of System.out or System.err by a logger.(üû«Ëüÿÿÿÿ8àû”á÷0H—URMAJORZ
+CODE_SMELL
+q	java:S106¯"9Replace this use of System.out or System.err by a logger.(ĞñíÕùÿÿÿÿ8ùûùâ÷0H˜URMAJORZ
+CODE_SMELL

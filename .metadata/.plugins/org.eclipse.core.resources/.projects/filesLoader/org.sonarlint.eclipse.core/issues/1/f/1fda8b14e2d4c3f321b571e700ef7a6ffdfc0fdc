@@ -1,0 +1,11 @@
+
+Š	java:S116"_Rename this field "sequence_number_area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†©³‰H WRMINORZ
+CODE_SMELL
+‹	java:S116"[Rename this field "entry_run_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¸Ü›üÿÿÿÿH¡WRMINORZ
+CODE_SMELL
+–	java:S116"kRename this field "sequence_number_within_entry_run" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ç¼ïH¢WRMINORZ
+CODE_SMELL
+Œ	java:S116"\Rename this field "record_identifier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏªÆùÿÿÿÿH£WRMINORZ
+CODE_SMELL
+	java:S116"]Rename this field "association_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©«ışÿÿÿÿH¤WRMINORZ
+CODE_SMELL

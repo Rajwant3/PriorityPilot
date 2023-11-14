@@ -1,0 +1,42 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ô§‹ ûÿÿÿÿ8¨õÂ¬ú0HšURMAJORZ
+CODE_SMELL
+s
+java:S6437]"6Revoke and change this password, as it is compromised.(Š„¾Ñıÿÿÿÿ8ñıÂ¬ú0H¢URBLOCKERZVULNERABILITY
+{
+java:S2095'"HUse try-with-resources or close this "Connection" in a "finally" clause.(Š„¾Ñıÿÿÿÿ8¶¨ËËô0H£URBLOCKERZBUG
+p
+java:S2583z"DChange this condition so that it does not always evaluate to "false"(æËóÈ8ñıÂ¬ú0H¤URMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ßÀÒÎúÿÿÿÿ8¶¨ËËô0H§URMAJORZ
+CODE_SMELL
+k	java:S106`"9Replace this use of System.out or System.err by a logger.(±÷ÿª8¶¨ËËô0H¨URMAJORZ
+CODE_SMELL
+k	java:S106m"9Replace this use of System.out or System.err by a logger.(±“ı¢8ñıÂ¬ú0H©URMAJORZ
+CODE_SMELL
+‚
+java:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Íã½ùÿÿÿÿ8ñıÂ¬ú0HªURBLOCKERZBUG
+j	java:S106b"9Replace this use of System.out or System.err by a logger.(Ü÷y8ñıÂ¬ú0H«URMAJORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(×²Ó›8ñıÂ¬ú0H¬URMAJORZ
+CODE_SMELL
+j	java:S1069"9Replace this use of System.out or System.err by a logger.(¢ëÛG8ñıÂ¬ú0H­URMAJORZ
+CODE_SMELL
+p	java:S106i"9Replace this use of System.out or System.err by a logger.(ò½ºŒùÿÿÿÿ8ñıÂ¬ú0H®URMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(÷Ô„Ìıÿÿÿÿ8ñıÂ¬ú0H¯URMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(å²¤8ñıÂ¬ú0H°URMAJORZ
+CODE_SMELL
+k	java:S106e"9Replace this use of System.out or System.err by a logger.(ÇÃÅµ8¶¨ËËô0H±URMAJORZ
+CODE_SMELL
+p	java:S106g"9Replace this use of System.out or System.err by a logger.(ëÑªíúÿÿÿÿ8¶¨ËËô0H²URMAJORZ
+CODE_SMELL
+u
+java:S2583x"DChange this condition so that it does not always evaluate to "false"(œ‹ì†üÿÿÿÿ8¶¨ËËô0H³URMAJORZBUG
+u
+java:S2095+"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8ñıÂ¬ú0H¶URBLOCKERZBUG
+]
+java:S1197"*Move the array designators [] to the type.(Ã¶âù8ñıÂ¬ú0H·URMINORZ
+CODE_SMELL
+s
+java:S6437'"6Revoke and change this password, as it is compromised.(Š„¾Ñıÿÿÿÿ8ñıÂ¬ú0HºURBLOCKERZVULNERABILITY

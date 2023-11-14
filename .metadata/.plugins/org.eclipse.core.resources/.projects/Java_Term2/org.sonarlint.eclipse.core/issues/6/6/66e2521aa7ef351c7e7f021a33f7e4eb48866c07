@@ -1,0 +1,44 @@
+
+o
+java:S18549"<Remove this useless assignment to local variable "oddArray".(ïÛ‰˜8ÁøÏ¬è0H¹,RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›úáìıÿÿÿÿ8ŠÕªè0Hº,RMAJORZ
+CODE_SMELL
+b
+java:S11977"*Move the array designators [] to the type.(çãà®ùÿÿÿÿ8¶ÄÎ¬è0H»,RMINORZ
+CODE_SMELL
+]
+java:S11979"*Move the array designators [] to the type.(ïÛ‰˜8ÁøÏ¬è0H¾,RMINORZ
+CODE_SMELL
+L
+java:S2119"Save and re-use this "Random".(¼İÅf8ó®ùªè0HÁ,RCRITICALZBUG
+p
+java:S18548"=Remove this useless assignment to local variable "evenArray".(ÊÉª8¶ÄÎ¬è0HÂ,RMAJORZ
+CODE_SMELL
+]
+java:S11978"*Move the array designators [] to the type.(ÊÉª8¶ÄÎ¬è0HÃ,RMINORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÃë‚úÿÿÿÿ8Ù’Üªè0HÆ,RMINORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(Ëº”üÿÿÿÿ8®¨Š«è0HÇ,RMAJORZ
+CODE_SMELL
+`
+java:S14819"-Remove this unused "oddArray" local variable.(ïÛ‰˜8ÁøÏ¬è0HÈ,RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(–ô„ş8â¸œ«è0HÊ,RMAJORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(ÏÄğêıÿÿÿÿ8®¨Š«è0HË,RMAJORZ
+CODE_SMELL
+€	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Á´Ï8¶ÄÎ¬è0HÌ,RMINORZ
+CODE_SMELL
+a
+java:S14818".Remove this unused "evenArray" local variable.(ÊÉª8¶ÄÎ¬è0HÍ,RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÖ†ÿÿÿÿÿHÏ,RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(îà•ãÿÿÿÿÿ8‘ùÃªè0HĞ,RMAJORZ
+CODE_SMELL
+…	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿‡äìşÿÿÿÿ8€ŠÛªè0HÑ,RMINORZ
+CODE_SMELL
+k	java:S1062"9Replace this use of System.out or System.err by a logger.(ƒ¹è8ŒÛûªè0HÒ,RMAJORZ
+CODE_SMELL

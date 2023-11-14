@@ -1,0 +1,47 @@
+
+	java:S116"_Rename this field "sequence_number_area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Á†üÿÿÿÿH¥WRMINORZ
+CODE_SMELL
+…	java:S116"[Rename this field "entry_run_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûƒÑ-H¦WRMINORZ
+CODE_SMELL
+–	java:S116"kRename this field "sequence_number_within_entry_run" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­¼‘œH§WRMINORZ
+CODE_SMELL
+Œ	java:S116"\Rename this field "record_identifier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏªÆùÿÿÿÿH¨WRMINORZ
+CODE_SMELL
+Š	java:S116!"_Rename this field "association_number_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÅÂŸH©WRMINORZ
+CODE_SMELL
+	java:S116*"_Rename this field "association_number_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıø¿œùÿÿÿÿHªWRMINORZ
+CODE_SMELL
+ƒ	java:S116Q"SRename this field "ach_Flag" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‹¡ÒşÿÿÿÿH«WRMINORZ
+CODE_SMELL
+	java:S116W"_Rename this field "cardholder_ID_Method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö»¶ˆşÿÿÿÿH¬WRMINORZ
+CODE_SMELL
+ƒ	java:S116Z"XRename this field "cat_Indicator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÈäH­WRMINORZ
+CODE_SMELL
+”	java:S116`"iRename this field "mail_telephone_order_indicator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ÚŠ‡H®WRMINORZ
+CODE_SMELL
+	java:S116x"cRename this field "network_Identifier_Debit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŸÄH¯WRMINORZ
+CODE_SMELL
+ƒ	java:S116~"XRename this field "pos_EntryMode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¶«ÅH°WRMINORZ
+CODE_SMELL
+Œ	java:S116"aRename this field "debit_Credit_Indicator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î«Ò:H±WRMINORZ
+CODE_SMELL
+‡	java:S116"VRename this field "card_type_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö´¬×ûÿÿÿÿH²WRMINORZ
+CODE_SMELL
+„	java:S116¢"SRename this field "mcc_Code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îíÜŞşÿÿÿÿH³WRMINORZ
+CODE_SMELL
+ˆ	java:S116´"WRename this field "pos_DataCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ŒÆÖùÿÿÿÿH´WRMINORZ
+CODE_SMELL
+‚	java:S116º"VRename this field "card_type_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼åòˆHµWRMINORZ
+CODE_SMELL
+‰	java:S116Ø"XRename this field "dcc_Indicator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¼ÙåûÿÿÿÿH¶WRMINORZ
+CODE_SMELL
+ˆ	java:S116ğ"WRename this field "iasf_FeeType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş¨®¿şÿÿÿÿH·WRMINORZ
+CODE_SMELL
+…	java:S116ó"YRename this field "iasf_FeeAmount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â†´šH¸WRMINORZ
+CODE_SMELL
+“	java:S116ö"gRename this field "iasf_FeeDebitCreditIndicator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î³æçH¹WRMINORZ
+CODE_SMELL
+Š	java:S116‚"YRename this field "mc_CashBackFee" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞàñŞÿÿÿÿÿHºWRMINORZ
+CODE_SMELL
+‰	java:S116…"]Rename this field "mc_CashBackFeeSign" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôøêÄH»WRMINORZ
+CODE_SMELL

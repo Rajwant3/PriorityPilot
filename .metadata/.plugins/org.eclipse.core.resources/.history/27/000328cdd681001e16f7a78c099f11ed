@@ -1,0 +1,8 @@
+package com.priority.pilot.models;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class TodoItem {
+
+}
